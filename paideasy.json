@@ -42,6 +42,26 @@
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-Paid-008.ovpn"
       },
 
+{
+         "name": "TrueMove-009-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-Paid-009.ovpn"
+      },
+
+
+{
+         "name": "TrueMove-010-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-Paid-010.ovpn"
+      },
+
+{
+         "name": "TrueMove-011-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-Paid-011.ovpn"
+      },
+
+{
+         "name": "TrueMove-012-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-Paid-012.ovpn"
+      },
 
 {
          "name": "TrueMove-Thai-001-VIP",
@@ -97,6 +117,28 @@
       },
 
 {
+         "name": "Dtac-90DAYS-009-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-Paid-009.ovpn"
+      },
+
+{
+         "name": "Dtac-90DAYS-010-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-Paid-010.ovpn"
+      },
+
+
+{
+         "name": "Dtac-90DAYS-011-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-Paid-011.ovpn"
+      },
+
+{
+         "name": "Dtac-90DAYS-012-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-Paid-012.ovpn"
+      },
+
+
+{
          "name": "Dtac-90DAYS-Thai-001-VIP",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai1.ovpn"
       },
@@ -143,7 +185,7 @@
 
 
    ],
-"message":"2 January 2022\n\n•Version:10\n•40ဘတ်ကိုတစ်လ\n\n•VIP 3ပြန်ပြင်လို့ချိတ်မရတာတောင်းပန်ပါတယ်",
-   "title":"Add SG VIP 6,7,8" ,
-   "version": 10
+"message":"7 January 2022\n\n•Version:11\n•40ဘတ်ကိုတစ်လ\n\n•VIP တွေထပ်တိုးထားပါတယ်",
+   "title":"Add SG VIP 4Servers" ,
+   "version": 11
 }
